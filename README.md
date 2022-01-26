@@ -9,4 +9,4 @@ Designing and implementing a Java hotel reservation application which allows cus
 
 # Tech Stack
 
-OOP+OOD+singleton pattern+junit
+OOP+OOD+singleton pattern+maven+junit
